@@ -1,0 +1,4 @@
+1)Il DOM (Document Object Model) ha una struttura ad albero perchè è dinamico.
+
+2)Il client che di norma è il browser invia,tramite protocolli http, richieste al server e quest ultimo tramite programmi come java
+e CSS riesce a tradurre la risposta in html e inviarlo al client.
